@@ -1,0 +1,150 @@
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    filter: invert(100%);
+}
+
+header {
+    background-color: blue;
+    height: 240px;
+}
+
+.logo {
+    margin: 10px -10px 10px 10px;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+nav a {
+    display: block;
+    margin: -75px -50px 30px 250px;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+.building-img {
+    width: 100%;
+    max-width: 645px;
+    height: 375px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+    margin-top: -110px;
+    margin-left: 221px;
+    border-radius: 2%;
+}
+
+.h3 {
+    margin: 0px 221px;
+}
+
+nav li {
+    display: inline-block;
+    width: 130px;
+}
+
+.Rectangle-92 {
+    width: 100%;
+    max-width: 120px;
+    height: 112px;
+    margin: 0px 219px;
+    border-radius: 2%;
+}
+
+.Rectangle-93 {
+    width: 100%;
+    max-width: 120px;
+    height: 112px;
+    margin: -116px 350px 100px;
+    border-radius: 2%;
+}
+
+.Rectangle-94 {
+    width: 100%;
+    max-width: 120px;
+    height: 112px;
+    margin: -250px 481px 118px;
+    border-radius: 2%;
+}
+
+.Rectangle-95 {
+    width: 100%;
+    max-width: 120px;
+    height: 112px;
+    margin: -250px 613px 136px;
+    border-radius: 2%;
+}
+
+.Rectangle-96 {
+    width: 100%;
+    max-width: 120px;
+    height: 112px;
+    margin: -252px 745px 162px;
+    border-radius: 2%
+}
+
+.ცნობილი-ფაქტი {
+    margin: -135px 160px 50px 270px;
+    font-size: 15px;
+    width: 50%;
+    max-width: 700px;
+    color: #171717;
+    letter-spacing: 0.5px;
+}
+
+.გავრცელებული-მოსაზრებით {
+    margin: -35px 160px 50px 270px;
+    font-size: 15px;
+    width: 50%;
+    max-width: 700px;
+    color: #171717;
+    letter-spacing: 0.5px;
+}
+
+.მათთვის {
+    margin: -35px 160px 50px 270px;
+    font-size: 15px;
+    width: 50%;
+    max-width: 700px;
+    color: #171717;
+    letter-spacing: 0.5px;
+}
+
+.დღეს-უკვე {
+    margin: -35px 160px 50px 270px;
+    font-size: 15px;
+    width: 50%;
+    max-width: 700px;
+    color: #171717;
+    letter-spacing: 0.5px;
+}
+
+.დამატებითი-ინფორმაცია {
+    background-color: #0A22F4;
+    margin: 150px 150px 150px 450px;
+    font-size: 15px;
+    color: white;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.contact {
+    padding: 18px 60px;
+    color: #171717;
+    background-color: #ffffff;
+    border-radius: 28px;
+    text-align: center;
+}
